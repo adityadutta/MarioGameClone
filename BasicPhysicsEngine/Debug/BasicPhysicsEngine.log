@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/std:[c++17|c++latest]'
+  Animation.cpp
+d:\humber\semester 3\game 203_ game programing 5\assignment2_game203\basicphysicsengine\basicphysicsengine\vector3.h(27): warning C4005: 'VECTOR3_BACK': macro redefinition
+  d:\humber\semester 3\game 203_ game programing 5\assignment2_game203\basicphysicsengine\basicphysicsengine\vector3.h(21): note: see previous definition of 'VECTOR3_BACK'
+  BasicPhysicsEngine.vcxproj -> D:\Humber\Semester 3\Game 203_ Game Programing 5\Assignment2_GAME203\BasicPhysicsEngine\Debug\BasicPhysicsEngine.exe
+  BasicPhysicsEngine.vcxproj -> D:\Humber\Semester 3\Game 203_ Game Programing 5\Assignment2_GAME203\BasicPhysicsEngine\Debug\BasicPhysicsEngine.pdb (Partial PDB)
